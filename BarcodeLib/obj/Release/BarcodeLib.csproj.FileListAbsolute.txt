@@ -1,0 +1,118 @@
+C:\Users\Bilal\documents\visual studio 2012\Projects\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\Bilal\documents\visual studio 2012\Projects\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\Bilal\documents\visual studio 2012\Projects\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\documents\visual studio 2012\Projects\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\Bilal\documents\visual studio 2012\Projects\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\.net projects\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\.net projects\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\.net projects\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\.net projects\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\.net projects\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\Amir Bhai\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\Amir Bhai\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\Amir Bhai\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\haris\Desktop\Amir Bhai\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\Amir Bhai\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\New folder (3)\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\New folder (3)\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\New folder (3)\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\New folder (3)\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\15-12=2014\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\15-12=2014\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\15-12=2014\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\haris\Desktop\15-12=2014\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\15-12=2014\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\29=12=2014\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\29=12=2014\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\29=12=2014\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\haris\Desktop\29=12=2014\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\29=12=2014\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\09=01=2015\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\09=01=2015\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\haris\Desktop\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\haris\Desktop\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\haris\Desktop\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+D:\Office Work\amir project\09=01=2015\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\Office Work\amir project\09=01=2015\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\Office Work\amir project\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+D:\Office Work\amir project\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\Office Work\amir project\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+D:\Working\Inventry Projects\09=01=2015\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\Working\Inventry Projects\09=01=2015\Neww\inventory complete amir b\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\Working\Inventry Projects\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+D:\Working\Inventry Projects\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\Working\Inventry Projects\09=01=2015\Neww\inventory complete amir b\BarcodeLib\obj\Release\BarcodeLib.pdb
+D:\Working\Inventry Projects\16=04=2015(PWD)\Neww\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\Working\Inventry Projects\16=04=2015(PWD)\Neww\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\Working\Inventry Projects\16=04=2015(PWD)\Neww\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+D:\Working\Inventry Projects\16=04=2015(PWD)\Neww\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\Working\Inventry Projects\16=04=2015(PWD)\Neww\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+D:\projects\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\projects\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\projects\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\projects\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\Administrator\Desktop\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\Administrator\Desktop\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\Administrator\Desktop\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\Administrator\Desktop\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+F:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+F:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+F:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+F:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\desktop 5-30-2015\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\Digital Arena\Documents\Visual Studio 2012\Projects\inventory complete amir b\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\Digital Arena\Documents\Visual Studio 2012\Projects\inventory complete amir b\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\Digital Arena\Documents\Visual Studio 2012\Projects\inventory complete amir b\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\Digital Arena\Documents\Visual Studio 2012\Projects\inventory complete amir b\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\Digital Arena\Documents\Visual Studio 2012\Projects\inventory complete amir b\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\running projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\running projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\running projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\running projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\running projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\Amina\Documents\Visual Studio 2013\Heaven Technology\Projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\Amina\Documents\Visual Studio 2013\Heaven Technology\Projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\Amina\Documents\Visual Studio 2013\Heaven Technology\Projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\Amina\Documents\Visual Studio 2013\Heaven Technology\Projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\Amina\Documents\Visual Studio 2013\Heaven Technology\Projects\pwd inventory\inventory complete amir b - Copy\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+D:\HT software\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\HT software\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\HT software\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\HT software\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+F:\heaven tech team projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+F:\heaven tech team projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+F:\heaven tech team projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\heaven tech team projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+F:\heaven tech team projects\PWD2017-10-11\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+F:\Office Projects\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+F:\Office Projects\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+F:\Office Projects\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\Office Projects\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+F:\Office Projects\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Latest Running Projects\running projects\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\Latest Running Projects With DB\Projects BK\Al Faisal Uniform PWD\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\Latest Running Projects With DB\Projects BK\Al Faisal Uniform PWD\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Projects BK\Al Faisal Uniform PWD\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\Latest Running Projects With DB\Projects BK\Al Faisal Uniform PWD\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\Latest Running Projects With DB\Projects BK\Al Faisal Uniform PWD\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+D:\ASP.NET internship\Projects\AlfaisalPWD-03-17-2018\18-10-2018\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\ASP.NET internship\Projects\AlfaisalPWD-03-17-2018\18-10-2018\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\ASP.NET internship\Projects\AlfaisalPWD-03-17-2018\18-10-2018\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csprojAssemblyReference.cache
+D:\ASP.NET internship\Projects\AlfaisalPWD-03-17-2018\18-10-2018\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.csproj.CoreCompileInputs.cache
+D:\ASP.NET internship\Projects\AlfaisalPWD-03-17-2018\18-10-2018\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\ASP.NET internship\Projects\AlfaisalPWD-03-17-2018\18-10-2018\PWD2017-10-19\inventory complete amir b - Copy\BarcodeLib\obj\Release\BarcodeLib.pdb

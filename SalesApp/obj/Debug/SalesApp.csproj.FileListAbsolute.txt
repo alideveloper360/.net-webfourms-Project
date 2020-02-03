@@ -1,0 +1,226 @@
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\ApplicationInsights.config
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\SalesApp.dll.config
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\SalesApp.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\SalesApp.pdb
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\System.Web.Optimization.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\WebGrease.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\System.Web.Optimization.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\obj\Debug\SalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\obj\Debug\SalesApp.csproj.CoreCompileInputs.cache
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\obj\Debug\SalesApp.dll
+C:\Users\Aamir_Saleem\source\repos\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\ApplicationInsights.config
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\SalesApp.dll.config
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\SalesApp.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\SalesApp.pdb
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Antlr3.Runtime.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\AspNet.ScriptManager.jQuery.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.Web.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Newtonsoft.Json.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\System.Web.Optimization.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\WebGrease.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\System.Web.Optimization.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Antlr3.Runtime.pdb
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Newtonsoft.Json.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.Web.xml
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.csprojAssemblyReference.cache
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.csproj.CoreCompileInputs.cache
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.csproj.CopyComplete
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.dll
+G:\Latest Running Projects With DB\Projects BK\Hassan Cloth\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\ApplicationInsights.config
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\SalesApp.dll.config
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\SalesApp.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\SalesApp.pdb
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\System.Web.Optimization.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\WebGrease.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\System.Web.Optimization.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.dll
+C:\Users\Muhammad Ali\Desktop\07-10-19\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\ApplicationInsights.config
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\SalesApp.dll.config
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\SalesApp.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\SalesApp.pdb
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\System.Web.Optimization.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\WebGrease.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\System.Web.Optimization.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\obj\Debug\SalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\obj\Debug\SalesApp.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\BarcodeLib.dll
+C:\Users\Muhammad Ali\Documents\Visual Studio 2015\Projects\SalesApp\SalesApp\bin\BarcodeLib.pdb
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\ApplicationInsights.config
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\SalesApp.dll.config
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\SalesApp.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\SalesApp.pdb
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Antlr3.Runtime.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\BarcodeLib.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.Web.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Newtonsoft.Json.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\System.Web.Optimization.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\WebGrease.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\BarcodeLib.pdb
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\System.Web.Optimization.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Antlr3.Runtime.pdb
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Newtonsoft.Json.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.Web.xml
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.csprojResolveAssemblyReference.cache
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.csproj.CoreCompileInputs.cache
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.dll
+C:\TransferedFiles\Saleapp_Project\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\ApplicationInsights.config
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\SalesApp.dll.config
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\SalesApp.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\SalesApp.pdb
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Antlr3.Runtime.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\BarcodeLib.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.Web.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Newtonsoft.Json.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\System.Web.Optimization.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\WebGrease.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\BarcodeLib.pdb
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\System.Web.Optimization.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Antlr3.Runtime.pdb
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Newtonsoft.Json.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.ApplicationInsights.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.WindowsServer.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\bin\Microsoft.AI.Web.xml
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.csprojResolveAssemblyReference.cache
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.dll
+F:\Software house\folder\Saleapp_Project\SalesApp\SalesApp\obj\Debug\SalesApp.pdb

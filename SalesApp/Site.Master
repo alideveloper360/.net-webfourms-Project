@@ -1,0 +1,284 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SalesApp.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hassan Cloth</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+ <%--   <webopt:bundlereference runat="server" path="~/Content/css" />--%>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" /> c
+
+     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Quicksand:300,400,500" rel="stylesheet" />
+
+    <!-- FONT-AWESOME ICON CSS -->
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+
+    <!--== ALL CSS FILES ==-->
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/mob.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/materialize.css" />
+    <link href="css/util.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+     <style>
+        body {
+          
+        }
+
+        /* Fixed sidenav, full height */
+        .sidenav {
+        }
+
+            /* Style the sidenav links and the dropdown button */
+            .sidenav a, .dropdown-btn {
+                padding: 6px 8px 6px 16px;
+                
+                
+                display: block;
+                border: none;
+                background: none;
+                
+            }
+
+                /* On mouse-over */
+                .sidenav a:hover, .dropdown-btn:hover {
+                
+                }
+
+        /* Main content */
+      
+
+        /* Add an active class to the active dropdown button */
+        .active {
+            
+        }
+
+        /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+        .dropdown-container {
+            display: none;
+            background-color:lightgray;
+            padding-left: 28px;
+        }
+
+        /* Optional: Style the caret down icon */
+        .fa-caret-down {
+        }
+
+        /* Some media queries for responsiveness */
+        @media screen and (max-height: 450px) {
+            .sidenav {
+                
+            }
+
+                .sidenav a {
+                   
+                }
+        }
+    </style>
+
+</head>
+<body>
+    <form runat="server">
+    <%--    <div class="loading" align="center">
+            Loading. Please wait.<br />
+            <br />
+            <img src="https://www.aspsnippets.com/demos/loader.gif" alt="" />
+        </div>--%>
+        <div>
+            <!--== MAIN CONTRAINER ==-->
+            <div class="container-fluid sb1">
+                <div class="row">
+                    <!--== LOGO ==-->
+                    <div class="col-md-2 col-sm-3 col-xs-6 sb1-1" style="height:70px">
+                        <a href="#" class="btn-close-menu"><i class="fa fa-times" aria-hidden="true"></i></a>
+                        <a href="#" class="atab-menu"><i class="fa fa-bars tab-menu" aria-hidden="true"></i></a>
+                        <a href="AdminDashboard.aspx" class="logo">
+                            <img style="height:70px;width:60%" src="images/logo.png" />
+                        </a>
+                    </div>
+                    <!--== SEARCH ==-->
+                    <div class="col-md-6 col-sm-6 mob-hide">
+                    </div>
+                    <!--== NOTIFICATION ==-->
+                    <div class="col-md-2 tab-hide">
+                    </div>
+                    <!--== MY ACCCOUNT ==-->
+                    <div class="col-md-2 col-sm-3 col-xs-6">
+                        <!-- Dropdown Trigger -->
+                        <a class='waves-effect dropdown-button top-user-pro' href='Authorize.aspx' data-activates='top-menu'>
+                            <img src="images/logo.ico" />My Account <i class="fa fa-angle-down" aria-hidden="true"></i>
+                        </a>
+
+                        <!-- Dropdown Structure -->
+                        <ul id='top-menu' class='dropdown-content top-menu-sty'>
+                            <li class="divider"></li>
+                            <%-- <li>
+                                <a href="FactoryHome.aspx" class="ho-dr-con-last waves-effect"><i class="fa fa-user" aria-hidden="true"></i>Factory</a>
+                            </li>--%>
+                            <li>
+                                <asp:LinkButton ID="LinkButton1" runat="server" class="ho-dr-con-last waves-effect" OnClick="LinkButton1_Click"><i class="fa fa-sign-in" aria-hidden="true"></i>Lougout</asp:LinkButton>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--Side Bar--->
+            <div class="container-fluid sb2">
+                <div class="row">
+                    <div class="sb2-1">
+                        <!--== USER INFO ==-->
+                        <div class="sb2-12">
+                            <ul>
+                                <li>
+                                    <img src="images/logo.ico" />
+                                </li>
+                                <li>
+                                    <h5 style="font-weight:bold;font-size:large">Super Admin <span>
+                                        <asp:Label style="font-style:italic;font-weight:bold;font-size:medium" ID="lblName" runat="server" Text=""></asp:Label></span></h5>
+                                </li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <!--== LEFT MENU ==-->
+
+                        <div class="sb2-13" style="content:none">
+
+                            <ul class="collapsible" data-collapsible="accordion" style="content:none">
+                                
+                                <!--  -->
+                                <li class="sidenav">
+                                    <a class="dropdown-btn"><i  aria-hidden="true" ></i >Manage Product</a>
+                                    <ul class="dropdown-container">
+                                        <li style="margin-left:35px"><a href="ManageProducts.aspx"><i class="fa fa-user" aria-hidden="true"></i>Manage Products</a></li>
+                                        <li style="margin-left:35px"><a href="ManageCategories.aspx"><i class="fa fa-user" aria-hidden="true"></i>Categories</a></li>
+                                    <!----    <li style="margin-left:35px"><a href="ReceivedProduct.aspx"><i class="fa fa-user" aria-hidden="true"></i>Receiving</a></li>
+                                  ---> 
+                                        <li style="margin-left:35px"><a href="Receiving.aspx"><i class="fa fa-user" aria-hidden="true" ></i>Receiving</a></li>
+
+                                    </ul>
+                                </li>
+                                <li class="sidenav">
+                                    <a class="dropdown-btn"><i  aria-hidden="true" ></i >Manage Employees</a>
+                                    <ul class="dropdown-container">
+                                        <li style="margin-left:35px"><a href="Designation.aspx"><i style="content:none" class="fa fa-user" aria-hidden="true"></i>Designation</a></li>
+                                        <li style="margin-left:35px"><a href="ManageEmployees.aspx"><i class="fa fa-user" aria-hidden="true"></i>Manage Employees</a></li> 
+                                    </ul>
+                                </li>                           
+                                  <li class="sidenav">
+                                    <a class="dropdown-btn"><i  aria-hidden="true" ></i >HR</a>
+                                    <ul class="dropdown-container">
+                                       <!--- <li style="margin-left:35px"><a href="Attendance.aspx"><i class="fa fa-user" aria-hidden="true"></i>Attendance</a></li>-->
+                                        <li style="margin-left:35px"><a href="ManageAttendance.aspx"><i class="fa fa-user" aria-hidden="true"></i>Manage Attendance</a></li>
+                                        <li style="margin-left:35px"><a href="DailyEmployees.aspx"><i class="fa fa-user" aria-hidden="true"></i>Daily Paid</a></li>
+                                      <!---  <li style="margin-left:35px"><a href="AattendanceRecord.aspx"><i class="fa fa-user" aria-hidden="true"></i>Attendance Record</a></li>---->
+                                        <li style="margin-left:35px"><a href="ShowDailyEmployee.aspx"><i class="fa fa-user" aria-hidden="true"></i>Daily Payment record</a></li>
+                                        <li style="margin-left:35px"><a href="EmployeeSalary.aspx"><i class="fa fa-user" aria-hidden="true"></i>Salary</a></li>
+                                        <li style="margin-left:35px"><a href="ManageCommittee.aspx"><i class="fa fa-user" aria-hidden="true"></i>Committee</a></li>
+                                        <li style="margin-left:35px"><a href="PayCommitee.aspx"><i class="fa fa-user" aria-hidden="true"></i>Pay Committee</a></li>
+                                        <li style="margin-left:35px"><a href="ManageLoans.aspx"><i class="fa fa-user" aria-hidden="true"></i>Company Loans In</a></li>
+                                        <li style="margin-left:35px"><a href="CompanyLoanOut.aspx"><i class="fa fa-user" aria-hidden="true"></i>Company Loans Out</a></li>
+
+                                        <li style="margin-left:35px"><a href="EmployeeAdvanceSalary"><i class="fa fa-user" aria-hidden="true"></i>Employee Advance Salary</a></li>
+
+                                        <li style="margin-left:35px"><a href="Mng_Zakat.aspx"><i class="fa fa-user" aria-hidden="true"></i>Manage Zakat</a></li>
+                                                                                <li style="margin-left:35px"><a href="EmployeeLoanIn.aspx"><i class="fa fa-user" aria-hidden="true"></i>Employee Loans In</a></li>
+                                        <li style="margin-left:35px"><a href="EmployeesLoanOut.aspx"><i class="fa fa-user" aria-hidden="true"></i>Employee Loans Out</a></li>
+                                    </ul>
+                                </li>
+                                <li class="sidenav">
+                                    <a class="dropdown-btn"><i  aria-hidden="true" ></i >Manage Expense</a>
+                                    <ul class="dropdown-container">
+                                           <li style="margin-left:35px"><a href="ExpenseType.aspx"><i class="fa fa-user" aria-hidden="true"></i>Expense Type</a></li>
+                                           <li style="margin-left:35px"><a href="PayExpense.aspx"><i class="fa fa-user" aria-hidden="true"></i>Expense Pay</a></li>
+                                    </ul>
+                                </li>
+                                <li class="sidenav">
+                                    <a class="dropdown-btn"><i  aria-hidden="true" ></i >Manage Vendor</a>
+                                    <ul class="dropdown-container">
+                                        <li style="margin-left:35px"><a href="ManageVendors.aspx"><i class="fa fa-bar-chart" aria-hidden="true" ></i >Vendors Creation</a></li>
+                                        <li style="margin-left:35px"><a href="VendorLea.aspx"><i class="fa fa-bar-chart" aria-hidden="true" ></i >Vendors Payments</a></li>
+                                        
+                                    </ul>
+                                </li>
+                                  <li class="sidenav">
+                                    <a class="dropdown-btn"><i  aria-hidden="true" ></i >Reports</a>
+                                    <ul class="dropdown-container">
+                                        <li style="margin-left:35px"><a href="Receiving_Report.aspx"><i aria-hidden="true" ></i >Receive Product</a></li>
+
+                                        <li style="margin-left:35px"><a href="Stock.aspx"><i aria-hidden="true" ></i>Store Stock report</a></li>
+                                        <li style="margin-left:35px"><a href="AdvanceSalaryReport.aspx"><i  aria-hidden="true" ></i >Advance Salary Report</a></li>
+                                        <li style="margin-left:35px"><a href="ShopStockReport.aspx"><i  aria-hidden="true" ></i >Shop Stock report</a></li>
+                                        <li style="margin-left:35px"><a href="ShopRemainingStock.aspx"><i  aria-hidden="true" ></i >Shop Remaing stock report</a></li>
+                                        <li style="margin-left:35px"><a href="VendorLeadureReport.aspx"><i  aria-hidden="true" ></i >Vendor Leadgers Report</a></li>
+                                        
+                                    </ul>
+                                </li>
+                                 
+                                    
+                                    
+                                        <li><a href="CategoryStock.aspx"><i  aria-hidden="true" ></i >Stock Send To Shop</a></li>
+                                        
+                                   
+                                
+
+
+
+                                
+                               
+
+                                 
+                                
+                                 
+                                
+                                
+                                
+                                <!-----------<li><a href="DailyEmployees.aspx"><i class="fa fa-user" aria-hidden="true"></i>Insert Payment</a></li>------->
+                                
+                          
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+     <script src="js/jquery.min.js"></script>
+     <script src="js/materialize.min.js"></script> 
+
+        <script>
+/* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+var dropdown = document.getElementsByClassName("dropdown-btn");
+var i;
+
+for (i = 0; i < dropdown.length; i++) {
+  dropdown[i].addEventListener("click", function() {
+  this.classList.toggle("active");
+  var dropdownContent = this.nextElementSibling;
+  if (dropdownContent.style.display === "block") {
+  dropdownContent.style.display = "none";
+  } else {
+  dropdownContent.style.display = "block";
+  }
+  });
+}
+    </script>
+</body>
+</html>
